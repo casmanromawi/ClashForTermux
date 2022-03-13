@@ -8,7 +8,7 @@
 
 - apt install git -y
 
-- git clone https://github.com/lycoxz/ClashForTermux.git
+- git clone https://github.com/casmanromawi/ClashForTermux.git
 
 - cd ClashForTermux && bash install.sh
 
